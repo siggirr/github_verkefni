@@ -1,4 +1,5 @@
-#GitHub einstaklingsverkefni ghfhfxcgxfgj
+
+#GitHub einstaklingsverkefni 
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -11,8 +12,12 @@
 
 ##Námsmat:
 <ol>
-	<li>GIT spurningar (2%) cghjcgjkgcyjtgxcy<br>
+<<<<<<< HEAD
+	<li>GIT spurningar (2%)<br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
+=======
+	
+>>>>>>> 05f18297b43ebf375025746ce21043117c426ccc
 	<li>GIT útgáfustýring (6%) 
 		<ul>
 			<li><b>3% Git_verkefni.</b> Vinnusvæði vaktað með Git útgáfustjórnun og verkefnið leyst samkvæmt verklýsingu.</li>
