@@ -3,8 +3,6 @@ body {
 }
 .sumar {
 	display: none;
-
-/*
     background: red; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(bottom right, red, yellow); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, red, yellow); /* For Opera 11.1 to 12.0 */
@@ -23,6 +21,10 @@ body {
 	align-content: center;
 }
 .sumar h1 {
+	font-size: 5em;
+	color: #eeeeff;
+}
+.vetur h1{
 	font-size: 5em;
 	color: #eeeeff;
 }
